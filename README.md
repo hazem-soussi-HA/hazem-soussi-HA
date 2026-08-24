@@ -2,12 +2,11 @@
 
 # 🌑 Hazem Soussi — Shadow Builder
 
-**OS Architect · Full-Stack Engineer · Game Developer · AI Researcher · Cloud Infrastructure**
+**OS Architect · Full-Stack Engineer · AI Researcher · Cloud Infrastructure**
 
 *Tunisia → Remote*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hazem--soussi--ha.github.io/portfolio_final-0a1628?style=for-the-badge&logo=githubpages&logoColor=00d4ff)](https://hazem-soussi-ha.github.io/portfolio_final/)
-[![GitHub](https://img.shields.io/badge/GitHub-hazem--soussi--HA-181717?style=for-the-badge&logo=github)](https://github.com/hazem-soussi-HA)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hazem--soussi--ha.github.io-0a1628?style=for-the-badge&logo=githubpages&logoColor=00d4ff)](https://hazem-soussi-ha.github.io/portfolio_final/)
 [![Email](https://img.shields.io/badge/Email-hazem.soussi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazem.soussi@gmail.com)
 
 *"The builder remains in the shadow. The artefacts speak for themselves."*
@@ -16,73 +15,56 @@
 
 ---
 
-## 🏗️ What I Build
+## The One Reason
 
-| Domain | What | Tech |
-|--------|------|------|
-| **Operating Systems** | Full OS kernel in Pascal — process manager, memory manager, file system, device manager, security | Pascal, Python, React |
-| **Game Engines** | 2D game engine with physics, AI behavior, entity awareness, healing mechanics | Python, Pygame, OpenGL, Rust |
-| **Cloud Infrastructure** | Multi-tier architectures, CI/CD pipelines, K8s clusters, IaC | Docker, K8s, Terraform, GitHub Actions |
-| **AI/ML** | LLM fine-tuning, RAG systems, reasoning engines, model serving | PyTorch, DSPy, vLLM, llama.cpp |
-| **Full-Stack Web** | React apps, real-time dashboards, interactive maps, immersive UX | React, TypeScript, Node.js, WebGL |
-| **Security** | Vulnerability audits, Linux hardening, intrusion detection, dependency scanning | Python, Rust, Bash |
+> **Take something vast, invisible, or distant — dimensions, thoughts,
+> the machine's soul, the network — and make it local, sovereign,
+> visible, and alive.**
 
----
+Fifteen projects are not fifteen projects. They are one organism:
 
-## ⭐ Featured Projects
+```
+        THINK ──── REASON spine: 12-layer reasoning brain + NEXUS organ view
+       ╱                    hazem-soussi-HA/hazoom_general_intelligence
+      ╱
+  SHELTER ─── HAZOOM OS v6: real C kernel + 22 services + token-gated API
+      ╲                    hazem-soussi-HA/HAZOOM_OS
+       ╲
+        FACE ───── OX·ALPHA: sovereign mascot platform, zero dependencies
+                             hazem-soussi-HA/ox_hazoom_alpha
+        VOICE ──── Echo Cortex: authenticated portal for AETHER modules
+                             hazem-soussi-HA/echo_cortex
+        PROOF ──── jsondiff · oxh: shippable products, honest work
+                             hazem-soussi-HA/JSON-Diff
 
-### 🌀 [HAZOOM OS](https://github.com/hazem-soussi-HA/hazoom-os-unified)
-A complete Unix-like operating system running in the browser. Monolithic kernel in Pascal with 70+ integrated applications.
+   LAW ── a GPG-sealed Contract, sha256-pinned in every organ:
+          PURE POSITIVITY · verify-the-truth · 10% of everything to peace
+```
 
-`Pascal` · `Python` · `React` · `WebGL` · `Docker`
-
-### 🎮 [Super Mario GTA6](https://github.com/hazem-soussi-HA/mario_gta6)
-Original game engine fusing platformer mechanics with open-world freedom. Built with therapy and healing at its core.
-
-`Python` · `Pygame` · `OpenGL` · `GLSL` · `Rust`
-
-### 🌐 [HAZOOM DNS](https://github.com/hazem-soussi-HA/hazoom-dns)
-RFC 1035-compliant authoritative DNS server in Rust. Async UDP, name compression, zone files.
-
-`Rust` · `Tokio` · `Async` · `Systems Programming`
-
-### 🤖 [Alphapony](https://github.com/hazem-soussi-HA/Alpha_pony_hazoom)
-AI trained on personal creative patterns for code generation and game design assistance.
-
-`Python` · `PyTorch` · `Transformers` · `DSPy`
-
-### 📊 [InfraGraph](https://github.com/hazem-soussi-HA/infragraph)
-Infrastructure monitoring dashboard with real-time metrics, alerting, and automated remediation.
-
-`Python` · `Grafana` · `Prometheus` · `Docker`
+Every organ verifies the law at boot and reports it on `/health`.
+AI is an energy — available to those who deserve it, for good reason.
 
 ---
 
-## 🛠️ Technical Arsenal
+## What I Build
 
-**Systems:** Pascal · Rust · C · Assembly · Python
-**Cloud:** Docker · Kubernetes · Terraform · CI/CD · GitHub Actions
-**AI/ML:** PyTorch · Transformers · DSPy · vLLM · llama.cpp · RAG
-**Frontend:** React · TypeScript · Tailwind CSS · Framer Motion · WebGL
-**Backend:** Node.js · FastAPI · PostgreSQL · Redis
-**Game Dev:** Pygame · OpenGL · GLSL · Ursina · Canvas API
-**Security:** Linux/WSL Hardening · Audits · RBAC · TLS/mTLS
+| Domain | Proof |
+|--------|-------|
+| **Operating Systems** | HAZOOM OS v6 — C kernel (GDT, paging, buddy allocator, Q-learning scheduler) booting real hardware, plus web desktop + 22 microservices |
+| **Sovereign AI** | REASON — offline-first 12-layer reasoning engine with assembly-level self-telemetry; private coding assistants installed on client infrastructure |
+| **Cloud Infrastructure** | Multi-tier architectures, K8s farms, GitOps control planes, mesh orchestration with live organ dashboards |
+| **Full-Stack & Real-time Web** | WebGL Earth with physical day/night terminator, SSE streaming UIs, zero-dependency hardened pages |
+| **Security** | Loopback-only architectures, token auth everywhere, machine-bound license crypto (Fernet + CPUID), audit-ready session logs |
 
 ---
 
-## 📫 Open to Work
+## Open to Work
 
 **Available for:** Full-time · Contract · Freelance · Remote
-
-**Domains:** OS Development · Cloud Infrastructure · AI/ML Engineering · Game Development · Full-Stack Engineering · Security
+**Domains:** OS Development · Private/Sovereign AI deployments · Cloud Infrastructure · Security Hardening
 
 📧 **hazem.soussi@gmail.com**
-🌐 **[Portfolio](https://hazem-soussi-ha.github.io/portfolio_final/)**
 
 ---
 
-<div align="center">
-
-*Nothing is lost and everything is connected.*
-
-</div>
+*May the universal quantic positif be with us.*
